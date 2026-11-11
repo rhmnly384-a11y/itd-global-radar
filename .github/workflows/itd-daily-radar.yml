@@ -10,6 +10,7 @@ on:
       - 'scripts/**'
       - 'registry/**'
       - 'discover_tests.py'
+      - 'test_intelligence.py'
 permissions:
   contents: write
 concurrency:
@@ -25,16 +26,18 @@ jobs:
         with:
           python-version: '3.12'
       - name: Validate read-only radar code
-        run: python -m unittest discover_tests.py -v
+        run: python -m unittest discover_tests.py test_intelligence.py -v
       - name: Read public GitHub metadata only
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/discover_github.py --max-api-calls 50 --max-directories 6
-      - name: Commit public catalog snapshot only
+      - name: Classify verified discovery metadata without using paid tools
+        run: python scripts/intelligence.py
+      - name: Commit public discovery records only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/latest.json data/daily.md
+          git add data/latest.json data/daily.md data/intelligence.json data/intelligence.md data/observations.json
           if ! git diff --cached --quiet; then
             git commit -m 'chore: update public ITD radar candidates'
             git push
