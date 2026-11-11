@@ -1,0 +1,923 @@
+{
+  "schema_version": 1,
+  "repositories": {
+    "sindresorhus/awesome": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 534948
+        }
+      ]
+    },
+    "public-apis/public-apis": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 498005
+        }
+      ]
+    },
+    "nousresearch/hermes-agent": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 262500
+        }
+      ]
+    },
+    "affaan-m/ecc": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 300867
+        }
+      ]
+    },
+    "deepseek-ai/deepseek-harness": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 278337
+        }
+      ]
+    },
+    "firecrawl/firecrawl": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 200601
+        }
+      ]
+    },
+    "stablyai/orca": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 121614
+        }
+      ]
+    },
+    "dietrichgebert/ponytail": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 188485
+        }
+      ]
+    },
+    "graphify-labs/graphify": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 145731
+        }
+      ]
+    },
+    "langchain-ai/langchain": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 149339
+        }
+      ]
+    },
+    "thedotmack/claude-mem": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 115895
+        }
+      ]
+    },
+    "browser-use/browser-use": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 120634
+        }
+      ]
+    },
+    "ebony-vinyl/dsh-our-free-model": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 68935
+        }
+      ]
+    },
+    "d4vinci/scrapling": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 101229
+        }
+      ]
+    },
+    "google-gemini/gemini-cli": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 108763
+        }
+      ]
+    },
+    "tt-a1i/archify": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 95416
+        }
+      ]
+    },
+    "openhands/openhands": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 93167
+        }
+      ]
+    },
+    "storytold/craft-anything": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 26726
+        }
+      ]
+    },
+    "puppeteer/puppeteer": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 95822
+        }
+      ]
+    },
+    "koala73/worldmonitor": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 90465
+        }
+      ]
+    },
+    "rtk-ai/rtk": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 86137
+        }
+      ]
+    },
+    "ruvnet/ruflo": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 81446
+        }
+      ]
+    },
+    "heygen-com/hyperframes": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 82381
+        }
+      ]
+    },
+    "hoppscotch/hoppscotch": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 80773
+        }
+      ]
+    },
+    "apache/superset": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 75470
+        }
+      ]
+    },
+    "juliangarnier/anime": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 74498
+        }
+      ]
+    },
+    "upstash/context7": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 64541
+        }
+      ]
+    },
+    "sindresorhus/awesome-nodejs": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 67446
+        }
+      ]
+    },
+    "ayghri/i-have-adhd": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 60783
+        }
+      ]
+    },
+    "starship/starship": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 60687
+        }
+      ]
+    },
+    "sansan0/trendradar": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 63574
+        }
+      ]
+    },
+    "k-dense-ai/scientific-agent-skills": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 56744
+        }
+      ]
+    },
+    "chromedevtools/chrome-devtools-mcp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 55085
+        }
+      ]
+    },
+    "romkatv/powerlevel10k": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 55355
+        }
+      ]
+    },
+    "vsouza/awesome-ios": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 53943
+        }
+      ]
+    },
+    "deusdata/codebase-memory-mcp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 48460
+        }
+      ]
+    },
+    "reactive-resume/reactive-resume": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 45602
+        }
+      ]
+    },
+    "apache/airflow": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 47442
+        }
+      ]
+    },
+    "wshobson/agents": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 42405
+        }
+      ]
+    },
+    "lightpanda-io/browser": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 41812
+        }
+      ]
+    },
+    "motiondivision/motion": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 35059
+        }
+      ]
+    },
+    "h4ckf0r0day/obscura": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 32267
+        }
+      ]
+    },
+    "pmndrs/react-three-fiber": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 33638
+        }
+      ]
+    },
+    "cloakhq/cloakbrowser": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 32823
+        }
+      ]
+    },
+    "feder-cr/jobs_applier_ai_agent": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 32457
+        }
+      ]
+    },
+    "ccch1mneyyy/dsh-go": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 18875
+        }
+      ]
+    },
+    "jackwener/opencli": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 31011
+        }
+      ]
+    },
+    "alchaincyf/huashu-design": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 29147
+        }
+      ]
+    },
+    "kestra-io/kestra": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 30197
+        }
+      ]
+    },
+    "alibaba/page-agent": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 29659
+        }
+      ]
+    },
+    "lexmount/moli": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 23309
+        }
+      ]
+    },
+    "graphiteeditor/graphite": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 27901
+        }
+      ]
+    },
+    "deepseek-ai/dsh-superagent-prototype": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 22245
+        }
+      ]
+    },
+    "airbnb/lottie-ios": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 26936
+        }
+      ]
+    },
+    "browserbase/stagehand": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 25994
+        }
+      ]
+    },
+    "pascalorg/editor": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 25441
+        }
+      ]
+    },
+    "prefecthq/prefect": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 24147
+        }
+      ]
+    },
+    "skyvern-ai/skyvern": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 23376
+        }
+      ]
+    },
+    "img2threejs/img2threejs": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 21154
+        }
+      ]
+    },
+    "heydamir/unslop": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 13866
+        }
+      ]
+    },
+    "yihui-dev/awesome-opus5-5-videos": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 14758
+        }
+      ]
+    },
+    "argoproj/argo-workflows": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 17087
+        }
+      ]
+    },
+    "dagster-io/dagster": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 16386
+        }
+      ]
+    },
+    "lemomo-ai/lemo-opuscar": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 14539
+        }
+      ]
+    },
+    "andkret/cookbook": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 15539
+        }
+      ]
+    },
+    "semantica-agi/semantica": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 14527
+        }
+      ]
+    },
+    "bash-it/bash-it": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 15301
+        }
+      ]
+    },
+    "notrexed/hookshot": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 6731
+        }
+      ]
+    },
+    "oh-my-fish/oh-my-fish": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 11420
+        }
+      ]
+    },
+    "zortos293/lichii": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 8239
+        }
+      ]
+    },
+    "pmndrs/drei": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 10139
+        }
+      ]
+    },
+    "rddmwmddr/android-ad-cleaner": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 7414
+        }
+      ]
+    },
+    "wangzan101/mika": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 8104
+        }
+      ]
+    },
+    "unclebob/ub-mode": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 7637
+        }
+      ]
+    },
+    "trailofbits/skills": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 8118
+        }
+      ]
+    },
+    "vasturiano/3d-force-graph": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 6558
+        }
+      ]
+    },
+    "pshenok/server-survival": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 6489
+        }
+      ]
+    },
+    "srizzon/git-city": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 5989
+        }
+      ]
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 335870
+        }
+      ]
+    },
+    "vinta/awesome-python": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 333883
+        }
+      ]
+    },
+    "aptabase/aptabase": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 1871
+        }
+      ]
+    },
+    "n8n-io/n8n": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 210040
+        }
+      ]
+    },
+    "bcoe/awesome-cross-platform-nodejs": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 1213
+        }
+      ]
+    },
+    "getsentry/skills": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 1139
+        }
+      ]
+    },
+    "ripienaar/free-for-dev": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 142527
+        }
+      ]
+    },
+    "trimstray/the-book-of-secret-knowledge": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 257490
+        }
+      ]
+    },
+    "datatalksclub/data-engineering-zoomcamp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 46795
+        }
+      ]
+    },
+    "aseprite/aseprite": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 40853
+        }
+      ]
+    },
+    "atsushisakai/pythonrobotics": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 30889
+        }
+      ]
+    },
+    "greensock/gsap": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 30430
+        }
+      ]
+    },
+    "airbytehq/airbyte": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 22355
+        }
+      ]
+    },
+    "minireel/hghub": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 8169
+        }
+      ]
+    },
+    "orangecoloured/analog": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 53
+        }
+      ]
+    },
+    "davidhdev/canvas-ui": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 5394
+        }
+      ]
+    },
+    "awesome-selfhosted/awesome-selfhosted-data": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 1219
+        }
+      ]
+    },
+    "blockvectra/mcp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 3
+        }
+      ]
+    },
+    "lachy3433/contextfetch-mcp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 2
+        }
+      ]
+    },
+    "thehiddenpandadev/catastro_gps_mcp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 1
+        }
+      ]
+    },
+    "crawlbrulee/crawlbrulee-mcp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 1
+        }
+      ]
+    },
+    "edgeplat/edgepedia-mcp": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 1
+        }
+      ]
+    },
+    "dypsilon/frontend-dev-bookmarks": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 47741
+        }
+      ]
+    },
+    "vintasoftware/django-ai-plugins": {
+      "last_seen": "2026-11-11T04:00:04+00:00",
+      "samples": [
+        {
+          "date": "2026-11-11T04:00:04+00:00",
+          "stars": 172
+        }
+      ]
+    }
+  }
+}
