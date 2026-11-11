@@ -1,0 +1,41 @@
+name: ITD Free Daily Repository Radar
+on:
+  schedule:
+    - cron: '37 2 * * *' # 05:37 Baghdad (UTC+3), away from top of hour
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/itd-daily-radar.yml'
+      - 'scripts/**'
+      - 'registry/**'
+      - 'discover_tests.py'
+permissions:
+  contents: write
+concurrency:
+  group: itd-radar
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate read-only radar code
+        run: python -m unittest discover_tests.py -v
+      - name: Read public GitHub metadata only
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/discover_github.py --max-api-calls 50 --max-directories 6
+      - name: Commit public catalog snapshot only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/latest.json data/daily.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update public ITD radar candidates'
+            git push
+          fi
